@@ -1,7 +1,9 @@
 Développement d'un programme permettant de modéliser et manipuler un jeu de cartes en C.
 
 Fonctionnalités :
+
 Création d'un paquet de 52 cartes (tableau d'entiers de 1 à 52)
+
 Attribution des couleurs : ♠️ Pique, ♥️ Cœur, ♣️ Trèfle, ♦️ Carreau
 Mélange aléatoire des cartes
 Distribution de 5 cartes à 2 joueurs
